@@ -23,7 +23,7 @@
 
 - 💻 Languages: **C++, JavaScript, Python**
 - 🌐 Web: **HTML, CSS, JS, React**
-- 🎮 Game Dev: **Unity / Unreal (لو بتستخدميهم اكتبي المناسب)**
+- 🎮 Game Dev: **Unity / Unreal 
 - 🗄️ Database: **SQL**
 - ⚙️ Tools: **Git, GitHub, VS Code**
 
