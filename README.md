@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=roaam026&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h1 align="center"> Hi 👋, I'm Roya Mohamed </h1>
+<h1 align="center"> Hi 👋, I'm Roaa Mohamed </h1>
 
 <h3 align="center">💻 Software Engineer | 🎮 Game Developer | 🌐 Web Developer</h3>
 
@@ -12,10 +12,14 @@
      width="300"/>
 
 - 🚀 **Currently building games & web applications**
-- 🎮 Passionate about **Game Development & Interactive Systems**
-- 🌐 Skilled in **Frontend & Backend Web Development**
-- 🧠 Strong foundation in **OOP & Problem Solving**
-- ⚡ Always learning & improving
+- 🤖 I develop **AI-powered games and interactive experiences**
+- 🎮 Passionate about **Game Development & creative systems**
+- 🌐 I build **web platforms for university projects and real-world use**
+- 💼 Created a **portfolio website to showcase my work**
+- 🧪 Built **many projects and practical examples across different fields**
+- 📊 I integrate **diagrams, visualizations, and structured designs into my code**
+- 🧠 Strong foundation in **OOP & problem solving**
+- ⚡ Always learning, improving, and experimenting
 
 ---
 
@@ -23,9 +27,10 @@
 
 - 💻 Languages: **C++, JavaScript, Python**
 - 🌐 Web: **HTML, CSS, JS, React**
-- 🎮 Game Dev: **Unity / Unreal 
+- 🎮 Game Dev: **Unity / Unreal**
+- 🤖 AI: **Basic AI integration in games & apps**
 - 🗄️ Database: **SQL**
-- ⚙️ Tools: **Git, GitHub, VS Code , GBD COMPILER**
+- ⚙️ Tools: **Git, GitHub, VS Code**
 
 ---
 
@@ -37,14 +42,16 @@
 
 ### 🚀 Projects
 
-🔹 Add your best projects here (VERY IMPORTANT)  
-Example:
+🔹 Add your best projects here  
 
-- 🎮 **Game Project Name**  
-  Short description about your game  
+- 🎮 **AI Game Project**  
+  Game developed using AI concepts and interactive mechanics  
 
-- 🌐 **Website Project Name**  
-  Short description about your website  
+- 🌐 **University Platform**  
+  A web platform built to support university needs and students  
+
+- 💼 **Portfolio Website**  
+  Personal website to showcase my projects and skills  
 
 ---
 
@@ -66,7 +73,7 @@ Example:
 
 ### 💡 Quote
 
-> "Code is not just lines… it's creativity, logic, and passion combined."
+> "I don't just write code... I build experiences."
 
 ---
 
