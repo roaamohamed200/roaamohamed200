@@ -25,7 +25,7 @@
 - 🌐 Web: **HTML, CSS, JS, React**
 - 🎮 Game Dev: **Unity / Unreal 
 - 🗄️ Database: **SQL**
-- ⚙️ Tools: **Git, GitHub, VS Code**
+- ⚙️ Tools: **Git, GitHub, VS Code , GBD COMPILER**
 
 ---
 
