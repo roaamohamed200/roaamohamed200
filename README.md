@@ -25,7 +25,7 @@
 
 ### 🛠️ Tech Stack
 
-- 💻 Languages: **C++, JavaScript, Python**
+- 💻 Languages: **C++,C#,HTML,CSS,RUBY,JavaScript,Python**
 - 🌐 Web: **HTML, CSS, JS, React**
 - 🎮 Game Dev: **Unity / Unreal**
 - 🤖 AI: **Basic AI integration in games & apps**
